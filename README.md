@@ -1,4 +1,5 @@
-<style>*{direction: rtl}</style>
+<div dir="rtl">
+
 **پروژه کتابخانه**
 
 نیازمندی ها
@@ -92,4 +93,4 @@
 <tr><td valign="top"></td><td valign="top">ابمیل</td></tr>
 <tr><td valign="top">boolean فیلد  </td><td valign="top">عضویت ویژه</td></tr>
 </table>
-
+</div>
