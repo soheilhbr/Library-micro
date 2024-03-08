@@ -1,4 +1,4 @@
-<!-- language: rtl -->
+<style>*{direction: rtl}</style>
 **پروژه کتابخانه**
 
 نیازمندی ها
